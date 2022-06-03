@@ -1,0 +1,17 @@
+{
+    "__class__": "Lista",
+    "personas": [
+        {
+            "__class__": "investigador",
+            "__atributos__": {
+                "cuil": "213124",
+                "apellido": "pena",
+                "nom": "juan",
+                "sueldo": 32442.0,
+                "antiguedad": 4,
+                "area": "data",
+                "tipo": "teorica"
+            }
+        }
+    ]
+}
